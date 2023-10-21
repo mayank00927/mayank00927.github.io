@@ -34,7 +34,7 @@ per location, rooms, area and other important factors.
 
 ![hOUSE pRICE](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/e207cc59-a2c8-41fc-a80a-6a972361d212)
 
-### Movie Reviews Classification (NLP) 
+### [Movie Reviews Classification (NLP)](https://github.com/mayank00927/NLP_Movie_Review_Classification) 
 * Developed a machine learning model for movie reviews 
 classification as positive or negative using NLP 
 techniques. 
