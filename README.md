@@ -1,6 +1,6 @@
 # Data Scientist
 
-Technical Skills
+### Technical Skills
 
 * Programming- Python 
 * Framework- Flask 
