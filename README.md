@@ -39,9 +39,4 @@ per location, rooms, area and other important factors.
 classification as positive or negative using NLP 
 techniques. 
 
-
-![bp-film-review-title](https://github.com/ma![MoVIE REVIEW](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/b4ad504d-8922-48b9-a764-39b053efa0af)
-
-
-
 ![MOVIE REVIEWS](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/42ee0924-b3d9-41c1-9dd3-c6f1af5561db)
