@@ -19,14 +19,14 @@
 application approval based on customer's income, 
 Age, occupation type etc. 
 
-![pre-approved-vs-prequalified-for-a-credit-card](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/917a49f2-e782-43ba-a216-f2ec219ddf35)
+![cREDIT CARD](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/d59e698b-8612-42dd-a515-f84a54770bf2)
 
 ### Students Test Score Prediction 
 * Built end to end project, which predicts students score 
 in test based on gender, parental education, reading 
 score etc. 
 
- ![D0ZxpTQUwAEI33I](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/0a334363-e5ab-4069-b294-a21616816109)
+![sTUDENT MARKS](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/56c2b69e-0429-4210-8108-f53f24459616)
 
 ### Chennai House Price Prediction 
 * Built a model to predict house prices in chennai as 
