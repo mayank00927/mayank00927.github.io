@@ -44,4 +44,4 @@ techniques.
 
 
 
-![MoVIE REVIEW](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/1bc82228-1a5c-402e-bfd5-ab49c893136d)
+![MOVIE REVIEWS](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/42ee0924-b3d9-41c1-9dd3-c6f1af5561db)
