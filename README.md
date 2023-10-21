@@ -17,7 +17,7 @@ code
 
 ##### Projects
 Credit Card Approval Prediction 
- Built a solution to predict the probability of credit card 
+* Built a solution to predict the probability of credit card 
 application approval based on customer's income, 
 Age, occupation type etc. 
 
