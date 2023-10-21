@@ -41,4 +41,7 @@ techniques.
 
 
 ![bp-film-review-title](https://github.com/ma![MoVIE REVIEW](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/b4ad504d-8922-48b9-a764-39b053efa0af)
-yank00927/mayank00927.github.io/assets/96683686/8efe7000-5b7f-4f13-8671-cc2cf856cd81)
+
+
+
+![MoVIE REVIEW](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/1bc82228-1a5c-402e-bfd5-ab49c893136d)
