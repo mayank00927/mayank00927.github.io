@@ -4,13 +4,12 @@
 
 * Programming- Python 
 * Framework- Flask 
-* Libraries - pandas | numpy | matplotlib | seaborn | scikit-learn | keras | tensorflow | nltk | gensim 
-* Machine Learning -Supervised & Unsupervised 
-* Database- SQL | MongoDB 
+* Libraries - pandas, numpy, matplotlib, seaborn, scikit-learn, keras, tensorflow, nltk, gensim 
+* Machine Learning - Supervised & Unsupervised 
+* Database- SQL, MongoDB 
 * SQL- (DDL, DML, DQL) 
-* Tools -Git | Power BI | MS 
-* Excel | Docker, AWS | Azure 
-* IDE -Jupyter | PyCharm | VS code
+* Tools -Git, Power BI, MS Excel, Docker, AWS, Azure 
+* IDE -Jupyter, PyCharm, VS code
 
 ## Projects
 
