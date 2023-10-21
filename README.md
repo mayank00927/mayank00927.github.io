@@ -1,4 +1,5 @@
 # Data Scientist
+[Linkedin](https://www.linkedin.com/in/mayank-sharma-a62233ab/)
 
 ### Technical Skills
 
