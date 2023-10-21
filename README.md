@@ -40,4 +40,5 @@ classification as positive or negative using NLP
 techniques. 
 
 
-![bp-film-review-title](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/8efe7000-5b7f-4f13-8671-cc2cf856cd81)
+![bp-film-review-title](https://github.com/ma![MoVIE REVIEW](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/b4ad504d-8922-48b9-a764-39b053efa0af)
+yank00927/mayank00927.github.io/assets/96683686/8efe7000-5b7f-4f13-8671-cc2cf856cd81)
