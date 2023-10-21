@@ -4,7 +4,7 @@
 
 * Programming- Python 
 * Framework- Flask 
-* Libraries - pandas, numpy, matplotlib, seaborn, scikit-learn, keras, tensorflow, nltk, gensim 
+* Libraries - pandas,numpy,matplotlib,seaborn,scikit-learn,keras,tensorflow,nltk,gensim 
 * Machine Learning - Supervised & Unsupervised 
 * Database- SQL, MongoDB 
 * SQL- (DDL, DML, DQL) 
