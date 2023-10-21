@@ -32,7 +32,7 @@ score etc.
 * Built a model to predict house prices in chennai as 
 per location, rooms, area and other important factors. 
 
-![depositphotos_216658950-stock-photo-wooden-houses-stand-row-small](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/e09d95a2-ba82-41ec-9d25-8f4e5735857d)
+![hOUSE pRICE](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/e207cc59-a2c8-41fc-a80a-6a972361d212)
 
 ### Movie Reviews Classification (NLP) 
 * Developed a machine learning model for movie reviews 
