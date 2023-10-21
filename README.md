@@ -31,12 +31,13 @@ score etc.
 ### Chennai House Price Prediction 
 * Built a model to predict house prices in chennai as 
 per location, rooms, area and other important factors. 
- 
-![1572911306087](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/8ceb0668-7570-4b5b-839b-84a9913b97f0)
+
+![depositphotos_216658950-stock-photo-wooden-houses-stand-row-small](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/e09d95a2-ba82-41ec-9d25-8f4e5735857d)
 
 ### Movie Reviews Classification (NLP) 
 * Developed a machine learning model for movie reviews 
 classification as positive or negative using NLP 
 techniques. 
 
-![images](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/da20df6c-22c8-4d24-a40f-c9ea17ec1b07)
+
+![bp-film-review-title](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/8efe7000-5b7f-4f13-8671-cc2cf856cd81)
