@@ -30,7 +30,7 @@ score etc.
 
 ### [Chennai House Price Prediction](https://github.com/mayank00927/Chennai_House_Price_EDA-_-Model_building)
 * Built a model to predict house prices in chennai as 
-per location, rooms, area and other important factors. 
+per location, rooms, area and other important factors.  
 
 ![hOUSE pRICE](https://github.com/mayank00927/mayank00927.github.io/assets/96683686/e207cc59-a2c8-41fc-a80a-6a972361d212)
 
